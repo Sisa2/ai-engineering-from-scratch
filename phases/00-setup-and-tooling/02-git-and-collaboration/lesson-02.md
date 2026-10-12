@@ -1,0 +1,1 @@
+I have learnt about git hub. How to usew it to manage changes and keep track of your work. git add and git commit are used to save your work. And to move your work from the waiting stage you must git push. And to check the status of your work, git status
